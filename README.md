@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science, Android Programming, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ adithyanp2336](www.linkedin.com/in/ adithyanp2336)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ adithyanp2336]
 
 - 💬 Ask me about **Python, SQL, Machine Learning**
 
