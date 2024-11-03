@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Data Science, Android Programming, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ adithyanp2336]
 
